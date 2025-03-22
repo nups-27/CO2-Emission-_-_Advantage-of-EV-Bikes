@@ -1,1 +1,4 @@
 # CO2-Emission-_-_Advantage-of-EV-Bikes
+The EV-CO2 Analysis Project evaluates the environmental impact of electric vehicles (EVs) compared to traditional fuel-powered vehicles by analyzing CO2 emissions. Using SQL for data extraction and Power BI for visualization, the project identifies CO2 savings, reduction percentages, and EV adoption trends across different regions, manufacturers, and vehicle types. It highlights key insights such as average CO2 reduction per manufacturer, top-selling EV models contributing to emission cuts, and regional CO2 savings trends.
+
+The project utilizes SQL for querying and data analysis, while Power BI is used to visualize CO2 reduction trends over time, savings by manufacturer and region, and top models driving emission cuts. Future improvements aim to incorporate predictive analytics to forecast CO2 reductions and EV market growth trends, enhancing strategic decision-making in sustainable transportation
